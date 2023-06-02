@@ -1,1 +1,1 @@
-This readme belongs to 0x01-git
+This is because i was big headed and didnt follow simple instructions
